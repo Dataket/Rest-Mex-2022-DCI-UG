@@ -9,7 +9,7 @@ All the code created for our participation in the [Rest-Mex 2022 Conference](htt
 ## Authors.
 
 - Gabriel Missael Barco.
-- Gil Est ́efano Rodr ́ıguez Rivera.
+- Gil Estéfano Rodríguez Rivera.
 - Delia Irazú Hernández Farías.
 
 ## Abstract.
