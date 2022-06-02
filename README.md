@@ -1,7 +1,7 @@
 # Dataket at Rest-Mex 2022 😎
 
 <p align="center">
-    <img src="images/separado.png" width="300" />
+    <img src="https://i.imgur.com/jGDtYFc.png" width = "400px"/>
 </p>
 
 All the code created for our participation in the [Rest-Mex 2022 Conference](https://sites.google.com/cicese.edu.mx/rest-mex-2022/home?authuser=0) is available at this GitHub Repository.
